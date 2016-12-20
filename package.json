@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "bcryptjs": "2.3.0",
-    "ldapjs": "~1.0.1",
+    "ldapjs": "git+https://github.com/jefferson-health/node-ldapjs.git",
     "lru-cache": "3.2.0"
   }
 }
